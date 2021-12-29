@@ -1,0 +1,13 @@
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: aqua;
+  height: 50vh;
+}
+.tag_line {
+  font-family: "Rubik", sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}

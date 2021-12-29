@@ -1,0 +1,31 @@
+.navbar {
+  height: 6rem;
+  background: transparent;
+}
+.navbar-brand {
+  color: aqua;
+  font-size: 35px;
+  font-weight: 700;
+  font-family: "Roboto Condensed", sans-serif;
+  letter-spacing: 0.5px;
+}
+.navbar-brand:hover {
+  color: aqua;
+}
+.sign_in_btn {
+  color: aqua;
+  border: none;
+  background-color: transparent;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  border: 1px solid aqua;
+  padding: 1rem 2rem;
+  margin-left: 2rem;
+  border-radius: 0.25rem;
+  letter-spacing: 1px;
+}
+.sign_in_btn:hover {
+  background: rgb(69, 99, 99);
+  color: #fff;
+}
